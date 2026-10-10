@@ -45,7 +45,6 @@ def site_urls(index: dict) -> list[str]:
     return list(dict.fromkeys(urls))
 
 
-
 def changed_urls(before: dict | None, after: dict) -> list[str]:
     """The pages whose data changed between two readings of index.json — the
     index as the push found it and as it left it — in site_urls' order.
@@ -110,7 +109,7 @@ VERIFICATION_SUBJECT = "chore: verification"
 
 
 def changed_since(before: str, now: dict, repo: Path = Path("."),
-                  path: str = "index.json") -> list[str]:
+                 path: str = "index.json") -> list[str]:
     """changed_urls from commit `before` to `now`, leaving out what each of the
     run's verification commits in between changed: the run pinged those pages
     itself when it pushed, and because its push starts no workflow the next
@@ -133,6 +132,7 @@ def changed_since(before: str, now: dict, repo: Path = Path("."),
     order = site_urls(now)
     return [u for u in order if u in set(wanted)] + [u for u in dict.fromkeys(wanted) if u not in order]
 
+
 def submit(urls: list[str], post=httpx.post) -> int:
     """One POST for the whole list; returns the HTTP status. 200 and 202 both
     mean accepted — the protocol answers before it crawls."""
@@ -145,10 +145,15 @@ def submit(urls: list[str], post=httpx.post) -> int:
     return response.status_code
 
 
+def repo_name() -> str:
+    """Repository slug for GitHub API calls, preferring the current workflow repo."""
+    return os.environ.get("GITHUB_REPOSITORY") or REPO_URL.removeprefix("https://github.com/")
+
+
 def request_pages_build(token: str | None = None) -> None:
     """Explicitly publish a bot push with a Pages-write installation token."""
     token = token or os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN") or ""
-    repo = REPO_URL.removeprefix("https://github.com/")
+    repo = repo_name()
     response = httpx.post(f"https://api.github.com/repos/{repo}/pages/builds",
                           headers=github_headers(token), timeout=TIMEOUT)
     response.raise_for_status()
@@ -170,7 +175,7 @@ def latest_pages_build(token: str | None = None) -> tuple[str, str]:
     """The status and commit of the repository's newest Pages build, read with
     the workflow's token (GH_TOKEN or GITHUB_TOKEN)."""
     token = token or os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN") or ""
-    repo = REPO_URL.removeprefix("https://github.com/")
+    repo = repo_name()
     response = httpx.get(f"https://api.github.com/repos/{repo}/pages/builds/latest",
                          headers=github_headers(token), timeout=TIMEOUT)
     response.raise_for_status()
