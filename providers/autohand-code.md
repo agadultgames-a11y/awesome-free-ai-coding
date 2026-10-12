@@ -11,7 +11,7 @@ crumb: Autohand Code
 
 # Autohand Code free tier
 
-🤖 Coding agents & CLIs · no card · provisional — added on 2026-09-27, a regular row from the first probe it passes on or after 2026-10-11 · **live** — last verified by a probe on 2026-10-08 · [autohand.ai](https://www.autohand.ai/code/) · [back to the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
+🤖 Coding agents & CLIs · no card · provisional — added on 2026-09-27, a regular row from the first probe it passes on or after 2026-10-11 · **live** — last verified by a probe on 2026-10-08; the probe since has not found that evidence, and 3 misses in a row archive the row · [autohand.ai](https://www.autohand.ai/code/) · [back to the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
 
 ## What you get
 
@@ -49,6 +49,6 @@ Each line is a change to what this page publishes, dated the day it reached the 
 
 ---
 
-Generated from `registry.yaml` on 2026-10-10 and re-verified twice a week; the full list, the Atom feed and the machinery are at <https://github.com/mvalentsev/awesome-free-ai-coding>.
+Generated from `registry.yaml` on 2026-10-12 and re-verified twice a week; the full list, the Atom feed and the machinery are at <https://github.com/mvalentsev/awesome-free-ai-coding>.
 
 {% endraw %}
