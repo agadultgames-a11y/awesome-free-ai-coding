@@ -5,8 +5,15 @@
   <id>https://mvalentsev.github.io/awesome-free-ai-coding/feed.xml</id>
   <link rel="self" href="https://mvalentsev.github.io/awesome-free-ai-coding/feed.xml"/>
   <link rel="alternate" href="https://github.com/mvalentsev/awesome-free-ai-coding"/>
-  <updated>2026-10-10T21:22:56Z</updated>
+  <updated>2026-10-13T19:13:16Z</updated>
   <author><name>freetier-radar</name></author>
+  <entry>
+    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/llmtr/20261013T191316Z</id>
+    <title>Free models changed: LLMTR</title>
+    <link rel="alternate" href="https://llmtr.com"/>
+    <updated>2026-10-13T19:13:16Z</updated>
+    <summary type="text">dropped ling-3.1-flash · free models: nemotron-3-ultra, nemotron-3-super, laguna-xs-2.1, agnes-3.0-flash, agnes-2.5-flash, qwen3.8-27b</summary>
+  </entry>
   <entry>
     <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/llmtr/20261010T212256Z</id>
     <title>Free models changed: LLMTR</title>
@@ -349,12 +356,5 @@
     <link rel="alternate" href="https://zed.dev"/>
     <updated>2026-09-27T04:51:59Z</updated>
     <summary type="text">added gpt-6-luna; dropped gpt-5.6-luna · free models: gpt-6-luna</summary>
-  </entry>
-  <entry>
-    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/groq-free/20260927T043624Z</id>
-    <title>Free models changed: Groq</title>
-    <link rel="alternate" href="https://groq.com"/>
-    <updated>2026-09-27T04:36:24Z</updated>
-    <summary type="text">dropped qwen3.6 · free models: gpt-oss-120b, gpt-oss-20b, qwen3.8-27b</summary>
   </entry>
 </feed>
