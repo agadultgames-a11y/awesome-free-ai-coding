@@ -1,12 +1,12 @@
 {
-  "read_on": "2026-10-12",
+  "read_on": "2026-10-15",
   "source": "https://artificialanalysis.ai/leaderboards/models",
   "top": {
     "slug": "claude-opus-5-5",
     "name": "Claude Opus 5.5 (Max, Default Fallback)",
     "index": 57.6
   },
-  "median": 13.0,
+  "median": 13.1,
   "families": {
     "apertus-70b": {
       "slug": "apertus-70b-instruct",
@@ -213,11 +213,6 @@
       "index": 11.1,
       "estimated": false
     },
-    "ling-3.1-flash": {
-      "slug": "ling-3-1-flash",
-      "index": 41.1,
-      "estimated": false
-    },
     "longcat-2.0": {
       "slug": "longcat-2-0",
       "index": 19.1,
@@ -240,8 +235,8 @@
     },
     "mimo-v2.5": {
       "slug": "mimo-v2-5-0424",
-      "index": 25.2,
-      "estimated": true
+      "index": 21.8,
+      "estimated": false
     },
     "mimo-v2.5-pro": {
       "slug": "mimo-v2-5-pro",
@@ -285,8 +280,8 @@
     },
     "mistral-small-3.2": {
       "slug": "mistral-small-3-2",
-      "index": 8.2,
-      "estimated": true
+      "index": 7.0,
+      "estimated": false
     },
     "muse-glimmer-30b": {
       "slug": "muse-glimmer",

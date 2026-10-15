@@ -1,6 +1,6 @@
 # awesome-free-ai-coding
 
-> Legal free LLM APIs and coding agents for AI coding — free tiers, no-card trials and free models, probe-verified twice a week against live model catalogs and pricing pages. Generated 2026-10-13 from the registry; every offer above the Archived heading passed a probe in the last 60 days and has not failed 3 in a row.
+> Legal free LLM APIs and coding agents for AI coding — free tiers, no-card trials and free models, probe-verified twice a week against live model catalogs and pricing pages. Generated 2026-10-15 from the registry; every offer above the Archived heading passed a probe in the last 60 days and has not failed 3 in a row.
 
 Each offer links to a page with the free tier in the vendor's own words, the connection details (base URL, where to get a key, model ids, an Anthropic-format URL where the vendor documents one), the evidence the probe reads and the row's history. "No card" means the vendor asks for no payment method; "no key" means the endpoint answers without an account; "no account" means the vendor prints a key anyone may call it with. Offers the list carried and carries no more are listed last, under Archived, each with why it left.
 
@@ -13,7 +13,7 @@ Each offer links to a page with the free tier in the vendor's own words, the con
 - [Cline](https://mvalentsev.github.io/awesome-free-ai-coding/providers/cline/): Open-source coding agent for VS Code, JetBrains and the terminal; signing in to its own Cline provider unlocks a rotating set of free models, each with a daily allowance, beside pay-as-you-go credits, the $9.99 ClinePass plan and BYOK; no card; what you send may be used to train or improve models; free models: `muse-spark-1.3-contributor`, `mimo-v2.6-flash`
 - [Crush + Charm Hyper](https://mvalentsev.github.io/awesome-free-ai-coding/providers/charm-hyper/): Charm's Crush terminal agent with Hyper, its official hosted model gateway; the free plan includes monthly Hypercredits, zero data retention; no card; what you send is not used to train models
 - [Autohand Code](https://mvalentsev.github.io/awesome-free-ai-coding/providers/autohand-code/): Open-source coding agent for the terminal, VS Code, JetBrains and the desktop whose Free plan runs Autohand's own latency-first coding model with no card, its messages counted per five hours and per week; no card; free models: `fantail`; provisional since 2026-09-27
-- [MiniMax Code](https://mvalentsev.github.io/awesome-free-ai-coding/providers/minimax-code/): MiniMax's coding agent — a desktop app for macOS and Windows, with an open-source CLI beside it — whose daily check-in in the app earns free points to spend on its tasks, coding among them; no card; provisional since 2026-09-29
+- [MiniMax Code](https://mvalentsev.github.io/awesome-free-ai-coding/providers/minimax-code/): MiniMax's coding agent — a desktop app for macOS and Windows, with an open-source CLI beside it — whose daily check-in in the app earns free points to spend on its tasks, coding among them; no card
 - [OpenAI Codex CLI](https://mvalentsev.github.io/awesome-free-ai-coding/providers/openai-codex-cli/): Open-source coding CLI, free by signing in with a $0 ChatGPT Free account; local coding tasks included on all plans; no card; not offered in mainland China, Russia, Hong Kong and 24 more places
 - [CodeGPT](https://mvalentsev.github.io/awesome-free-ai-coding/providers/codegpt/): VS Code / JetBrains coding agent whose $0 plan includes model usage rather than only BYOK — a small daily allowance on its own Economy models, plus BYOK across 15+ providers and local models (Ollama, LM Studio) beside it; no card
 
@@ -153,7 +153,7 @@ A model gets a page of its own once two rows or more serve it free, or it measur
 - [qwen3-8b](https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3-8b/): Alibaba Cloud Model Studio (DashScope, international), SiliconFlow (China)
 - [qwen3-coder-next](https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3-coder-next/): Kiro, Alibaba Cloud Model Studio (DashScope, international)
 - [qwen3.5-122b-a10b](https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3.5-122b-a10b/): notable; Alibaba Cloud Model Studio (DashScope, international), Regolo AI
-- [qwen3.5-4b](https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3.5-4b/): notable; Mixlayer, SiliconFlow (China)
+- [qwen3.5-4b](https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3.5-4b/): Mixlayer, SiliconFlow (China)
 - [qwen3.7-flash](https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3.7-flash/): Alibaba Cloud Model Studio (DashScope, international), BazaarLink
 - [qwen3.8-flash](https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3.8-flash/): strong; Alibaba Cloud Model Studio (DashScope, international), Yolo-Auto
 - [step-3.7-flash](https://mvalentsev.github.io/awesome-free-ai-coding/models/step-3.7-flash/): notable; Kilo Code, Nous Portal (Hermes Agent)
