@@ -74,7 +74,6 @@ entries:
     tier: notable
     aa_model: inkling-small
   - family: dots-3-note
-  - family: ling-3.0-flash-sante
   - family: nemotron-3-nano-omni
     aa_model: nemotron-3-nano-omni-30b-a3b
   api:
@@ -805,20 +804,16 @@ entries:
     aa_model: nvidia-nemotron-3-super-120b-a12b
   - family: north-mini-code
     aa_model: north-mini-code
-  - family: step-3.7-flash
-    tier: notable
-    aa_model: step-3-7-flash
   - family: laguna-s-2.1
   - family: laguna-xs-2.1
   - family: nemotron-3.5-lightning
     aa_model: nemotron-3-5-lightning
+  - family: nemotron-3-nano-omni
+    aa_model: nemotron-3-nano-omni-30b-a3b
+  - family: dots-3-note
   - family: inkling-small
     tier: notable
     aa_model: inkling-small
-  - family: dots-3-note
-  - family: ling-3.0-flash-sante
-  - family: nemotron-3-nano-omni
-    aa_model: nemotron-3-nano-omni-30b-a3b
   api:
     base_url: https://api.kilo.ai/api/gateway
     key_url: https://app.kilo.ai/profile

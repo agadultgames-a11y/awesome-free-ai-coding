@@ -99,9 +99,6 @@
           "family": "dots-3-note"
         },
         {
-          "family": "ling-3.0-flash-sante"
-        },
-        {
           "family": "nemotron-3-nano-omni",
           "aa_model": "nemotron-3-nano-omni-30b-a3b"
         }
@@ -1217,11 +1214,6 @@
           "aa_model": "north-mini-code"
         },
         {
-          "family": "step-3.7-flash",
-          "tier": "notable",
-          "aa_model": "step-3-7-flash"
-        },
-        {
           "family": "laguna-s-2.1"
         },
         {
@@ -1232,19 +1224,16 @@
           "aa_model": "nemotron-3-5-lightning"
         },
         {
-          "family": "inkling-small",
-          "tier": "notable",
-          "aa_model": "inkling-small"
+          "family": "nemotron-3-nano-omni",
+          "aa_model": "nemotron-3-nano-omni-30b-a3b"
         },
         {
           "family": "dots-3-note"
         },
         {
-          "family": "ling-3.0-flash-sante"
-        },
-        {
-          "family": "nemotron-3-nano-omni",
-          "aa_model": "nemotron-3-nano-omni-30b-a3b"
+          "family": "inkling-small",
+          "tier": "notable",
+          "aa_model": "inkling-small"
         }
       ],
       "api": {
@@ -13342,15 +13331,6 @@
       "page": "https://mvalentsev.github.io/awesome-free-ai-coding/models/glm-5.2/"
     },
     {
-      "family": "ling-3.0-flash-sante",
-      "rows": [
-        "openrouter-free",
-        "kilo-code",
-        "nous-portal"
-      ],
-      "page": "https://mvalentsev.github.io/awesome-free-ai-coding/models/ling-3.0-flash-sante/"
-    },
-    {
       "family": "minimax-m2.5",
       "rows": [
         "kiro",
@@ -13604,15 +13584,6 @@
       ],
       "tier": "strong",
       "page": "https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3.8-flash/"
-    },
-    {
-      "family": "step-3.7-flash",
-      "rows": [
-        "kilo-code",
-        "nous-portal"
-      ],
-      "tier": "notable",
-      "page": "https://mvalentsev.github.io/awesome-free-ai-coding/models/step-3.7-flash/"
     },
     {
       "family": "agents-a1",
@@ -13873,6 +13844,13 @@
       ],
       "tier": "notable",
       "page": "https://mvalentsev.github.io/awesome-free-ai-coding/models/ling-3.0-flash/"
+    },
+    {
+      "family": "ling-3.0-flash-sante",
+      "rows": [
+        "nous-portal"
+      ],
+      "page": "https://mvalentsev.github.io/awesome-free-ai-coding/models/ling-3.0-flash-sante/"
     },
     {
       "family": "llama-3.2-11b-vision",
@@ -14308,6 +14286,14 @@
       "rows": [
         "freebuff"
       ]
+    },
+    {
+      "family": "step-3.7-flash",
+      "rows": [
+        "nous-portal"
+      ],
+      "tier": "notable",
+      "page": "https://mvalentsev.github.io/awesome-free-ai-coding/models/step-3.7-flash/"
     },
     {
       "family": "swe-1.6",

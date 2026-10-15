@@ -5,8 +5,22 @@
   <id>https://mvalentsev.github.io/awesome-free-ai-coding/feed.xml</id>
   <link rel="self" href="https://mvalentsev.github.io/awesome-free-ai-coding/feed.xml"/>
   <link rel="alternate" href="https://github.com/mvalentsev/awesome-free-ai-coding"/>
-  <updated>2026-10-13T19:13:16Z</updated>
+  <updated>2026-10-15T06:09:31Z</updated>
   <author><name>freetier-radar</name></author>
+  <entry>
+    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/kilo-code/20261015T060931Z</id>
+    <title>Free models changed: Kilo Code</title>
+    <link rel="alternate" href="https://kilo.ai"/>
+    <updated>2026-10-15T06:09:31Z</updated>
+    <summary type="text">dropped ling-3.0-flash-sante, step-3.7-flash · free models: nemotron-3-ultra, nemotron-3-super, north-mini-code, laguna-s-2.1, laguna-xs-2.1, nemotron-3.5-lightning, nemotron-3-nano-omni, dots-3-note, inkling-small</summary>
+  </entry>
+  <entry>
+    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/openrouter-free/20261015T060931Z</id>
+    <title>Free models changed: OpenRouter (free models)</title>
+    <link rel="alternate" href="https://openrouter.ai"/>
+    <updated>2026-10-15T06:09:31Z</updated>
+    <summary type="text">dropped ling-3.0-flash-sante · free models: nemotron-3-ultra, gemma-4-31b, gemma-4-26b-a4b, nemotron-3-super, north-mini-code, laguna-s-2.1, laguna-xs-2.1, nemotron-3.5-lightning, inkling, inkling-small, dots-3-note, nemotron-3-nano-omni</summary>
+  </entry>
   <entry>
     <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/llmtr/20261013T191316Z</id>
     <title>Free models changed: LLMTR</title>
@@ -342,19 +356,5 @@
     <link rel="alternate" href="https://regolo.ai/pricing/"/>
     <updated>2026-09-27T05:38:50Z</updated>
     <summary type="text">added qwen3.5-122b-a10b · free models: glm-5.2, gpt-oss-120b, qwen3.8-27b, apertus-70b, gemma-4-31b, gpt-oss-20b, mistral-small-4, qwen3.5-9b, qwen3.5-122b-a10b</summary>
-  </entry>
-  <entry>
-    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/windsurf/20260927T045159Z</id>
-    <title>Free models changed: Devin Desktop (formerly Windsurf)</title>
-    <link rel="alternate" href="https://devin.ai/desktop"/>
-    <updated>2026-09-27T04:51:59Z</updated>
-    <summary type="text">added swe-1.6 · free models: swe-1.6</summary>
-  </entry>
-  <entry>
-    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/zed/20260927T045159Z</id>
-    <title>Free models changed: Zed</title>
-    <link rel="alternate" href="https://zed.dev"/>
-    <updated>2026-09-27T04:51:59Z</updated>
-    <summary type="text">added gpt-6-luna; dropped gpt-5.6-luna · free models: gpt-6-luna</summary>
   </entry>
 </feed>
