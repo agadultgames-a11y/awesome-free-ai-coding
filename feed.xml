@@ -5,8 +5,15 @@
   <id>https://mvalentsev.github.io/awesome-free-ai-coding/feed.xml</id>
   <link rel="self" href="https://mvalentsev.github.io/awesome-free-ai-coding/feed.xml"/>
   <link rel="alternate" href="https://github.com/mvalentsev/awesome-free-ai-coding"/>
-  <updated>2026-10-13T19:13:16Z</updated>
+  <updated>2026-10-19T10:58:52Z</updated>
   <author><name>freetier-radar</name></author>
+  <entry>
+    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/archived/autohand-code/20261019T105852Z</id>
+    <title>Archived: Autohand Code</title>
+    <link rel="alternate" href="https://mvalentsev.github.io/awesome-free-ai-coding/providers/autohand-code/"/>
+    <updated>2026-10-19T10:58:52Z</updated>
+    <summary type="text">3 failed probes in a row, last passed 2026-10-08</summary>
+  </entry>
   <entry>
     <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/llmtr/20261013T191316Z</id>
     <title>Free models changed: LLMTR</title>
@@ -318,7 +325,7 @@
   <entry>
     <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/added/autohand-code/20260927T090027Z</id>
     <title>Added: Autohand Code</title>
-    <link rel="alternate" href="https://www.autohand.ai/code/"/>
+    <link rel="alternate" href="https://mvalentsev.github.io/awesome-free-ai-coding/providers/autohand-code/"/>
     <updated>2026-09-27T09:00:27Z</updated>
     <summary type="text">Open-source coding agent for the terminal, VS Code, JetBrains and the desktop whose Free plan runs Autohand's own latency-first coding model with no card, its messages counted per five hours and per week · free models: fantail</summary>
   </entry>
@@ -349,12 +356,5 @@
     <link rel="alternate" href="https://devin.ai/desktop"/>
     <updated>2026-09-27T04:51:59Z</updated>
     <summary type="text">added swe-1.6 · free models: swe-1.6</summary>
-  </entry>
-  <entry>
-    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/zed/20260927T045159Z</id>
-    <title>Free models changed: Zed</title>
-    <link rel="alternate" href="https://zed.dev"/>
-    <updated>2026-09-27T04:51:59Z</updated>
-    <summary type="text">added gpt-6-luna; dropped gpt-5.6-luna · free models: gpt-6-luna</summary>
   </entry>
 </feed>

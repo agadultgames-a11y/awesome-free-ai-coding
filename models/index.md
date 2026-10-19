@@ -1,16 +1,16 @@
 ---
 layout: default
 title: 'Free LLM models by name: who serves each one free, verified 2026-10-05 or later'
-description: 158 model families the list's 85 live rows serve free, and every row that serves each one; 88 of them have a page of their own with the limits in the vendor's words and the ids to call.
+description: 157 model families the list's 84 live rows serve free, and every row that serves each one; 88 of them have a page of their own with the limits in the vendor's words and the ids to call.
 permalink: /models/
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-19
 ---
 
 {% raw %}
 
 # Every free model on the list
 
-158 model families, and every row that serves each one free, the most widely served first. A model gets a page of its own once two rows or more serve it free, or it measures notable, strong or frontier, or it has a dated free promotion: every row that serves it, the limits in the vendor's words and the ids to call. It keeps the page when fewer rows serve it, and when none does the page says since when and which rows listed it. A live probe reads every row again twice a week.
+157 model families, and every row that serves each one free, the most widely served first. A model gets a page of its own once two rows or more serve it free, or it measures notable, strong or frontier, or it has a dated free promotion: every row that serves it, the limits in the vendor's words and the ids to call. It keeps the page when fewer rows serve it, and when none does the page says since when and which rows listed it. A live probe reads every row again twice a week.
 
 [The whole list](https://mvalentsev.github.io/awesome-free-ai-coding/) · [Every provider](https://mvalentsev.github.io/awesome-free-ai-coding/providers/)
 
@@ -85,7 +85,6 @@ last_modified_at: 2026-10-15
 | `composer` | [Cursor (Hobby)](https://mvalentsev.github.io/awesome-free-ai-coding/providers/cursor-hobby/) |
 | `deepseek-r1-0528-qwen3-8b` | [SiliconFlow (China)](https://mvalentsev.github.io/awesome-free-ai-coding/providers/siliconflow-cn/) |
 | [`deepseek-v4-pro`](https://mvalentsev.github.io/awesome-free-ai-coding/models/deepseek-v4-pro/) · strong | [Alibaba Cloud Model Studio (DashScope, international)](https://mvalentsev.github.io/awesome-free-ai-coding/providers/alibaba-model-studio/) |
-| `fantail` | [Autohand Code](https://mvalentsev.github.io/awesome-free-ai-coding/providers/autohand-code/) |
 | `gemini-2.5` | [Google Jules](https://mvalentsev.github.io/awesome-free-ai-coding/providers/google-jules/) |
 | `gemini-2.5-flash` | [Gemini Enterprise Agent Platform express mode (formerly Vertex AI)](https://mvalentsev.github.io/awesome-free-ai-coding/providers/vertex-ai-express/) |
 | [`gemini-2.5-pro`](https://mvalentsev.github.io/awesome-free-ai-coding/models/gemini-2.5-pro/) · notable | [Gemini Enterprise Agent Platform express mode (formerly Vertex AI)](https://mvalentsev.github.io/awesome-free-ai-coding/providers/vertex-ai-express/) |

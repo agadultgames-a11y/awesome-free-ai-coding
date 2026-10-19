@@ -1,23 +1,23 @@
 ---
 layout: default
-title: 'Autohand Code free tier: limits, free models, verified 2026-10-08'
+title: 'Autohand Code free tier (archived): what it offered, and why it left the list'
 description: 'Open-source coding agent for the terminal, VS Code, JetBrains and the desktop whose Free plan runs Autohand''s own latency-first coding model with no card, its messages counted per five hours and per week. Free models: fantail. Ongoing Free access is intended for evaluation and light use. It…'
 permalink: /providers/autohand-code/
-last_modified_at: 2026-10-08
+last_modified_at: 2026-10-19
 crumb: Autohand Code
 ---
 
 {% raw %}
 
-# Autohand Code free tier
+# Autohand Code free tier (archived)
 
-🤖 Coding agents & CLIs · no card · provisional — added on 2026-09-27, a regular row from the first probe it passes on or after 2026-10-11 · **live** — last verified by a probe on 2026-10-08; the 2 probes since have not found that evidence, and 3 misses in a row archive the row · [autohand.ai](https://www.autohand.ai/code/) · [back to the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
+🤖 Coding agents & CLIs · no card · **archived** — 3 failed probes in a row, last passed 2026-10-08 · [autohand.ai](https://www.autohand.ai/code/) · [back to the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
 
-## What you get
+## What it offered
 
 Open-source coding agent for the terminal, VS Code, JetBrains and the desktop whose Free plan runs Autohand's own latency-first coding model with no card, its messages counted per five hours and per week
 
-## Free models
+## Free models it listed
 
 `fantail`
 
@@ -26,14 +26,6 @@ Open-source coding agent for the terminal, VS Code, JetBrains and the desktop wh
 20 messages/5 hours; 200 messages/week; 10 requests/minute per account
 
 Ongoing Free access is intended for evaluation and light use. It requires a linked GitHub account at least 30 days old, an invite, an Autohand grant, or an optional card on file that is not charged. All rate and message windows apply. The larger model and larger weekly budget need Pro.
-
-## Where it is offered
-
-The vendor names no country it keeps the offer from ([source](https://autohand.ai/terms-of-service), read 2026-09-27).
-
-## Connect
-
-- No API endpoint to paste: this row is a tool you install or sign in to.
 
 ## Evidence
 
@@ -45,10 +37,11 @@ The vendor names no country it keeps the offer from ([source](https://autohand.a
 
 Each line is a change to what this page publishes, dated the day it reached the list, in UTC.
 
+- `2026-10-19` — Archived: 3 failed probes in a row, last passed 2026-10-08
 - `2026-09-27` — Added: Open-source coding agent for the terminal, VS Code, JetBrains and the desktop whose Free plan runs Autohand's own latency-first coding model with no card, its messages counted per five hours and per week
 
 ---
 
-Generated from `registry.yaml` on 2026-10-15 and re-verified twice a week; the full list, the Atom feed and the machinery are at <https://github.com/mvalentsev/awesome-free-ai-coding>.
+Generated from `registry.yaml` on 2026-10-19. A probe still reads it twice a week, and the first probe it passes brings it back to the list; the full list, the Atom feed and the machinery are at <https://github.com/mvalentsev/awesome-free-ai-coding>.
 
 {% endraw %}

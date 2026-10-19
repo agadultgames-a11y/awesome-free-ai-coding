@@ -11,7 +11,7 @@ crumb: Cursor (Hobby)
 
 # Cursor (Hobby) free tier
 
-🎁 Trials (no card when possible) · no card · **live** — last verified by a probe on 2026-10-12; the probe since has not found that evidence, and 3 misses in a row archive the row · [cursor.com](https://cursor.com/) · [back to the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
+🎁 Trials (no card when possible) · no card · **live** — last verified by a probe on 2026-10-12; the 2 probes since have not found that evidence, and 3 misses in a row archive the row · [cursor.com](https://cursor.com/) · [back to the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
 
 ## What you get
 
@@ -56,6 +56,6 @@ Each line is a change to what this page publishes, dated the day it reached the 
 
 ---
 
-Generated from `registry.yaml` on 2026-10-15 and re-verified twice a week; the full list, the Atom feed and the machinery are at <https://github.com/mvalentsev/awesome-free-ai-coding>.
+Generated from `registry.yaml` on 2026-10-19 and re-verified twice a week; the full list, the Atom feed and the machinery are at <https://github.com/mvalentsev/awesome-free-ai-coding>.
 
 {% endraw %}
