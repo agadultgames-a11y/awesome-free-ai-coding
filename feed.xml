@@ -5,8 +5,22 @@
   <id>https://mvalentsev.github.io/awesome-free-ai-coding/feed.xml</id>
   <link rel="self" href="https://mvalentsev.github.io/awesome-free-ai-coding/feed.xml"/>
   <link rel="alternate" href="https://github.com/mvalentsev/awesome-free-ai-coding"/>
-  <updated>2026-10-19T10:58:52Z</updated>
+  <updated>2026-10-22T10:21:39Z</updated>
   <author><name>freetier-radar</name></author>
+  <entry>
+    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/archived/cursor-hobby/20261022T102139Z</id>
+    <title>Archived: Cursor (Hobby)</title>
+    <link rel="alternate" href="https://mvalentsev.github.io/awesome-free-ai-coding/providers/cursor-hobby/"/>
+    <updated>2026-10-22T10:21:39Z</updated>
+    <summary type="text">3 failed probes in a row, last passed 2026-10-12</summary>
+  </entry>
+  <entry>
+    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/archived/yolo-auto/20261022T102139Z</id>
+    <title>Archived: Yolo-Auto</title>
+    <link rel="alternate" href="https://mvalentsev.github.io/awesome-free-ai-coding/providers/yolo-auto/"/>
+    <updated>2026-10-22T10:21:39Z</updated>
+    <summary type="text">3 failed probes in a row, last passed 2026-10-12</summary>
+  </entry>
   <entry>
     <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/archived/autohand-code/20261019T105852Z</id>
     <title>Archived: Autohand Code</title>
@@ -342,19 +356,5 @@
     <link rel="alternate" href="https://qoder.cn"/>
     <updated>2026-09-27T09:00:27Z</updated>
     <summary type="text">Alibaba Cloud's agentic coding apps for China — Qoder CN IDE, JetBrains plugin and CLI, formerly Tongyi Lingma — with a two-week trial of 300 credits, then 100 credits a day to claim while that promotion runs, and limited completions on a basic model after</summary>
-  </entry>
-  <entry>
-    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/regolo/20260927T053850Z</id>
-    <title>Free models changed: Regolo AI</title>
-    <link rel="alternate" href="https://regolo.ai/pricing/"/>
-    <updated>2026-09-27T05:38:50Z</updated>
-    <summary type="text">added qwen3.5-122b-a10b · free models: glm-5.2, gpt-oss-120b, qwen3.8-27b, apertus-70b, gemma-4-31b, gpt-oss-20b, mistral-small-4, qwen3.5-9b, qwen3.5-122b-a10b</summary>
-  </entry>
-  <entry>
-    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/models/windsurf/20260927T045159Z</id>
-    <title>Free models changed: Devin Desktop (formerly Windsurf)</title>
-    <link rel="alternate" href="https://devin.ai/desktop"/>
-    <updated>2026-09-27T04:51:59Z</updated>
-    <summary type="text">added swe-1.6 · free models: swe-1.6</summary>
   </entry>
 </feed>

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19",
+  "generated": "2026-10-22",
   "source": "https://github.com/mvalentsev/awesome-free-ai-coding",
   "feed": "https://mvalentsev.github.io/awesome-free-ai-coding/feed.xml",
   "entries": [
@@ -173,7 +173,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 10,
@@ -521,7 +521,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 10,
@@ -747,7 +747,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 20,
@@ -860,7 +860,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 78,
@@ -985,7 +985,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 40,
@@ -1065,7 +1065,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 92,
@@ -1170,7 +1170,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 10,
@@ -1312,7 +1312,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 20,
@@ -1629,7 +1629,7 @@
         ]
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 78,
@@ -1727,7 +1727,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 50,
@@ -1845,7 +1845,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 10,
@@ -1953,7 +1953,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 30,
@@ -2046,7 +2046,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 20,
@@ -2111,10 +2111,11 @@
       },
       "first_seen": "2026-07-19",
       "last_verified": "2026-10-12",
-      "probe_failures": 2,
+      "probe_failures": 3,
       "provisional": false,
       "rank": 40,
-      "archived": false,
+      "archived": true,
+      "archived_because": "3 failed probes in a row, last passed 2026-10-12",
       "page": "https://mvalentsev.github.io/awesome-free-ai-coding/providers/cursor-hobby/"
     },
     {
@@ -2372,7 +2373,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 55,
@@ -2555,7 +2556,7 @@
         "free_list": "https://api.ngc.nvidia.com/v2/search/catalog/resources/ENDPOINT?q=%7B%22filters%22%3A%5B%7B%22field%22%3A%22label%22%2C%22value%22%3A%22nim_type_preview%22%7D%5D%2C%22page%22%3A0%2C%22pageSize%22%3A100%2C%22query%22%3A%22%2A%22%7D"
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 25,
@@ -2647,7 +2648,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 30,
@@ -2734,7 +2735,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 95,
@@ -2801,7 +2802,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 98,
@@ -3165,7 +3166,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 60,
@@ -3309,7 +3310,7 @@
       },
       "first_seen": "2026-09-21",
       "last_verified": "2026-10-19",
-      "probe_failures": 0,
+      "probe_failures": 1,
       "provisional": false,
       "rank": 96,
       "archived": false,
@@ -3382,7 +3383,7 @@
         ]
       },
       "first_seen": "2026-07-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 80,
@@ -3562,7 +3563,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-22",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 80,
@@ -3645,7 +3646,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-07-22",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 60,
@@ -3706,7 +3707,7 @@
       },
       "first_seen": "2026-07-22",
       "last_verified": "2026-10-15",
-      "probe_failures": 1,
+      "probe_failures": 2,
       "provisional": false,
       "rank": 50,
       "archived": false,
@@ -3804,7 +3805,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-03",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 50,
@@ -3934,7 +3935,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-03",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 60,
@@ -4015,7 +4016,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-05",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 76,
@@ -4200,7 +4201,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-05",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 40,
@@ -4318,7 +4319,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-11",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 20,
@@ -4668,7 +4669,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-11",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 25,
@@ -4857,7 +4858,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-14",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 60,
@@ -5652,7 +5653,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-14",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 30,
@@ -5805,7 +5806,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-14",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 90,
@@ -5872,7 +5873,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-21",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 87,
@@ -5940,7 +5941,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-14",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 96,
@@ -6007,7 +6008,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-14",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 101,
@@ -6155,7 +6156,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-30",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 55,
@@ -6346,7 +6347,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-08-30",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 75,
@@ -6644,7 +6645,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-02",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 28,
@@ -7089,7 +7090,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-02",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 85,
@@ -7257,7 +7258,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-02",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 45,
@@ -7336,7 +7337,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-02",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 85,
@@ -7459,7 +7460,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-02",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 82,
@@ -7561,7 +7562,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-05",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 91,
@@ -7682,7 +7683,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-05",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 86,
@@ -7800,7 +7801,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-05",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 98,
@@ -7878,7 +7879,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-21",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 96,
@@ -7962,7 +7963,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-05",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 88,
@@ -8034,7 +8035,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-07",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 95,
@@ -8143,7 +8144,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-11",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 93,
@@ -8219,7 +8220,7 @@
       },
       "first_seen": "2026-09-14",
       "last_verified": "2026-10-19",
-      "probe_failures": 0,
+      "probe_failures": 1,
       "provisional": false,
       "rank": 29,
       "archived": false,
@@ -8348,7 +8349,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-14",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 87,
@@ -8430,10 +8431,11 @@
       },
       "first_seen": "2026-09-14",
       "last_verified": "2026-10-12",
-      "probe_failures": 2,
+      "probe_failures": 3,
       "provisional": false,
       "rank": 99,
-      "archived": false,
+      "archived": true,
+      "archived_because": "3 failed probes in a row, last passed 2026-10-12",
       "page": "https://mvalentsev.github.io/awesome-free-ai-coding/providers/yolo-auto/"
     },
     {
@@ -8708,7 +8710,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-14",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 65,
@@ -8819,7 +8821,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-16",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 80,
@@ -8939,7 +8941,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-16",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 75,
@@ -9044,7 +9046,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-16",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 65,
@@ -9242,7 +9244,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-16",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 45,
@@ -9335,7 +9337,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-17",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 92,
@@ -9493,7 +9495,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-17",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 79,
@@ -9583,7 +9585,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-17",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 102,
@@ -9661,7 +9663,7 @@
       },
       "first_seen": "2026-09-17",
       "last_verified": "2026-10-19",
-      "probe_failures": 0,
+      "probe_failures": 1,
       "provisional": false,
       "rank": 99,
       "archived": false,
@@ -9739,7 +9741,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-17",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 99,
@@ -9825,7 +9827,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-17",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 82,
@@ -9903,7 +9905,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-17",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 88,
@@ -9982,7 +9984,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-17",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 99,
@@ -10048,7 +10050,7 @@
       },
       "first_seen": "2026-09-17",
       "last_verified": "2026-10-15",
-      "probe_failures": 1,
+      "probe_failures": 2,
       "provisional": false,
       "rank": 91,
       "archived": false,
@@ -10125,7 +10127,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-17",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 94,
@@ -10206,7 +10208,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-17",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 94,
@@ -10299,7 +10301,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-17",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 86,
@@ -10507,7 +10509,7 @@
         ]
       },
       "first_seen": "2026-09-17",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 91,
@@ -11173,7 +11175,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-18",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 48,
@@ -11280,7 +11282,7 @@
         ]
       },
       "first_seen": "2026-09-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 103,
@@ -11404,7 +11406,7 @@
         }
       },
       "first_seen": "2026-09-19",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 100,
@@ -11551,7 +11553,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-23",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 45,
@@ -11657,7 +11659,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-26",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 84,
@@ -11736,11 +11738,11 @@
       },
       "first_seen": "2026-09-27",
       "last_verified": "2026-10-08",
-      "probe_failures": 3,
+      "probe_failures": 4,
       "provisional": true,
       "rank": 52,
       "archived": true,
-      "archived_because": "3 failed probes in a row, last passed 2026-10-08",
+      "archived_because": "4 failed probes in a row, last passed 2026-10-08",
       "page": "https://mvalentsev.github.io/awesome-free-ai-coding/providers/autohand-code/"
     },
     {
@@ -11817,7 +11819,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-27",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 83,
@@ -11881,7 +11883,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-27",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 76,
@@ -11943,7 +11945,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-27",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 81,
@@ -12017,7 +12019,7 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-09-29",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
       "provisional": false,
       "rank": 54,
@@ -12096,9 +12098,9 @@
         "machinery_keywords": []
       },
       "first_seen": "2026-10-08",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-22",
       "probe_failures": 0,
-      "provisional": true,
+      "provisional": false,
       "rank": 93,
       "archived": false,
       "page": "https://mvalentsev.github.io/awesome-free-ai-coding/providers/wallaby/"
@@ -13598,15 +13600,6 @@
       "page": "https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3.7-flash/"
     },
     {
-      "family": "qwen3.8-flash",
-      "rows": [
-        "alibaba-model-studio",
-        "yolo-auto"
-      ],
-      "tier": "strong",
-      "page": "https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3.8-flash/"
-    },
-    {
       "family": "step-3.7-flash",
       "rows": [
         "kilo-code",
@@ -13707,12 +13700,6 @@
       "family": "command-r7b",
       "rows": [
         "cohere"
-      ]
-    },
-    {
-      "family": "composer",
-      "rows": [
-        "cursor-hobby"
       ]
     },
     {
@@ -14285,6 +14272,14 @@
       "page": "https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3.8-2.4t-a95b/"
     },
     {
+      "family": "qwen3.8-flash",
+      "rows": [
+        "alibaba-model-studio"
+      ],
+      "tier": "strong",
+      "page": "https://mvalentsev.github.io/awesome-free-ai-coding/models/qwen3.8-flash/"
+    },
+    {
       "family": "qwen3.8-max",
       "rows": [
         "alibaba-model-studio"
@@ -14497,7 +14492,7 @@
       "checked_on": "2026-07-22",
       "reason": "Direct API grants are application-gated, and an application with a selection step is not an offer a developer can simply use — the same bar that keeps TokenRouter's builder programme out of its entry. The :free Trinity variants that are open live on OpenRouter, which this list already covers.",
       "reopen_if": "Arcee opens direct API credits without an application.",
-      "current": true
+      "current": false
     },
     {
       "domains": [

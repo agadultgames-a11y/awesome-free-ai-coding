@@ -1700,12 +1700,6 @@ model_list:
     api_base: https://models.mixlayer.ai/v1
     api_key: os.environ/MIXLAYER_API_KEY
     use_chat_completions_api: true
-- model_name: yolo-auto/qwen3.8-flash
-  litellm_params:
-    model: openai/qwen3.8-flash
-    api_base: https://yolo-auto.com/v1
-    api_key: os.environ/YOLO_AUTO_API_KEY
-    use_chat_completions_api: true
 - model_name: modelscope/deepseek-ai/DeepSeek-V4.1-Flash
   litellm_params:
     model: openai/deepseek-ai/DeepSeek-V4.1-Flash
@@ -2213,17 +2207,6 @@ model_list:
     model: openai/deepseek-v4-flash
     api_base: https://freeinference.org/v1
     api_key: os.environ/FREEINFERENCE_API_KEY
-    use_chat_completions_api: true
-  model_info:
-    allowed_fails_policy:
-      AuthenticationErrorAllowedFails: 0
-      InternalServerErrorAllowedFails: 0
-      RateLimitErrorAllowedFails: 0
-- model_name: free/strong
-  litellm_params:
-    model: openai/qwen3.8-flash
-    api_base: https://yolo-auto.com/v1
-    api_key: os.environ/YOLO_AUTO_API_KEY
     use_chat_completions_api: true
   model_info:
     allowed_fails_policy:

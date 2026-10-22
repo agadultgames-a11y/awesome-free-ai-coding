@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 'muse-spark-1.3-contributor free: 2 providers, limits and ids, verified 2026-10-19'
+title: 'muse-spark-1.3-contributor free: 2 providers, limits and ids, verified 2026-10-19 or later'
 description: muse-spark-1.3-contributor is served free by opencode and Cline. None asks for a card. Each one's limits in the vendor's words, the ids to call and the day the published offer was last checked.
 permalink: /models/muse-spark-1.3-contributor/
-last_modified_at: 2026-10-19
+last_modified_at: 2026-10-22
 crumb: muse-spark-1.3-contributor
 ---
 
@@ -11,7 +11,7 @@ crumb: muse-spark-1.3-contributor
 
 # Where muse-spark-1.3-contributor is free
 
-**2 rows on the list serve `muse-spark-1.3-contributor` free:** opencode and Cline. None asks for a card. The published offers were checked on 2026-10-19 and are rechecked twice a week. It measures **strong**: within 25 points of the top of the [Artificial Analysis Intelligence Index](https://artificialanalysis.ai/models/muse-spark-1-3-xhigh).
+**2 rows on the list serve `muse-spark-1.3-contributor` free:** opencode and Cline. None asks for a card. The published offers were checked on 2026-10-19 or later and are rechecked twice a week. It measures **strong**: within 25 points of the top of the [Artificial Analysis Intelligence Index](https://artificialanalysis.ai/models/muse-spark-1-3-xhigh).
 
 [Every free model](https://mvalentsev.github.io/awesome-free-ai-coding/models/) · [the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
 
@@ -19,7 +19,7 @@ crumb: muse-spark-1.3-contributor
 
 ### [opencode](https://mvalentsev.github.io/awesome-free-ai-coding/providers/opencode/)
 
-🤖 Coding agents & CLIs · no card · verified 2026-10-19 · listed since 2026-09-16
+🤖 Coding agents & CLIs · no card · verified 2026-10-22 · listed since 2026-09-16
 
 Open-source coding agent whose opencode Zen gateway prices a rotating set of models at zero — inside OpenCode only, no sign-in; any provider via BYOK
 
@@ -60,6 +60,6 @@ Free promotions require a Cline account, with Google, GitHub or email signup and
 
 ---
 
-Generated from `registry.yaml` on 2026-10-19 and re-verified twice a week; every free model on the list is at <https://mvalentsev.github.io/awesome-free-ai-coding/models/>, and the full list, the Atom feed and the machinery at <https://github.com/mvalentsev/awesome-free-ai-coding>.
+Generated from `registry.yaml` on 2026-10-22 and re-verified twice a week; every free model on the list is at <https://mvalentsev.github.io/awesome-free-ai-coding/models/>, and the full list, the Atom feed and the machinery at <https://github.com/mvalentsev/awesome-free-ai-coding>.
 
 {% endraw %}
