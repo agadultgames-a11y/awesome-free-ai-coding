@@ -5,8 +5,22 @@
   <id>https://mvalentsev.github.io/awesome-free-ai-coding/feed.xml</id>
   <link rel="self" href="https://mvalentsev.github.io/awesome-free-ai-coding/feed.xml"/>
   <link rel="alternate" href="https://github.com/mvalentsev/awesome-free-ai-coding"/>
-  <updated>2026-10-22T10:21:39Z</updated>
+  <updated>2026-10-26T11:19:44Z</updated>
   <author><name>freetier-radar</name></author>
+  <entry>
+    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/archived/blue-claw/20261026T111944Z</id>
+    <title>Archived: Blue Claw Network</title>
+    <link rel="alternate" href="https://mvalentsev.github.io/awesome-free-ai-coding/providers/blue-claw/"/>
+    <updated>2026-10-26T11:19:44Z</updated>
+    <summary type="text">3 failed probes in a row, last passed 2026-10-15</summary>
+  </entry>
+  <entry>
+    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/archived/charm-hyper/20261026T111944Z</id>
+    <title>Archived: Crush + Charm Hyper</title>
+    <link rel="alternate" href="https://mvalentsev.github.io/awesome-free-ai-coding/providers/charm-hyper/"/>
+    <updated>2026-10-26T11:19:44Z</updated>
+    <summary type="text">3 failed probes in a row, last passed 2026-10-15</summary>
+  </entry>
   <entry>
     <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/archived/cursor-hobby/20261022T102139Z</id>
     <title>Archived: Cursor (Hobby)</title>
@@ -342,19 +356,5 @@
     <link rel="alternate" href="https://mvalentsev.github.io/awesome-free-ai-coding/providers/autohand-code/"/>
     <updated>2026-09-27T09:00:27Z</updated>
     <summary type="text">Open-source coding agent for the terminal, VS Code, JetBrains and the desktop whose Free plan runs Autohand's own latency-first coding model with no card, its messages counted per five hours and per week · free models: fantail</summary>
-  </entry>
-  <entry>
-    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/added/baidu-comate/20260927T090027Z</id>
-    <title>Added: Baidu Comate (文心快码)</title>
-    <link rel="alternate" href="https://comate.baidu.com"/>
-    <updated>2026-09-27T09:00:27Z</updated>
-    <summary type="text">Baidu's coding assistant for VS Code, JetBrains, Visual Studio and Xcode, with its own IDE and CLI, whose free Personal Standard plan keeps code completion free and adds a one-time ¥10 voucher for agent requests</summary>
-  </entry>
-  <entry>
-    <id>tag:mvalentsev.github.io,2026:awesome-free-ai-coding/added/qoder-cn/20260927T090027Z</id>
-    <title>Added: Qoder CN (formerly Lingma)</title>
-    <link rel="alternate" href="https://qoder.cn"/>
-    <updated>2026-09-27T09:00:27Z</updated>
-    <summary type="text">Alibaba Cloud's agentic coding apps for China — Qoder CN IDE, JetBrains plugin and CLI, formerly Tongyi Lingma — with a two-week trial of 300 credits, then 100 credits a day to claim while that promotion runs, and limited completions on a basic model after</summary>
   </entry>
 </feed>

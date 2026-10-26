@@ -292,3 +292,5 @@
 {"ts": "2026-10-19T10:58:52.973739Z", "event": "archived", "id": "autohand-code", "name": "Autohand Code", "url": "https://www.autohand.ai/code/", "models": ["fantail"], "detail": "3 failed probes in a row, last passed 2026-10-08"}
 {"ts": "2026-10-22T10:21:39.348864Z", "event": "archived", "id": "cursor-hobby", "name": "Cursor (Hobby)", "url": "https://cursor.com/", "models": ["composer"], "detail": "3 failed probes in a row, last passed 2026-10-12"}
 {"ts": "2026-10-22T10:21:39.348864Z", "event": "archived", "id": "yolo-auto", "name": "Yolo-Auto", "url": "https://yolo-auto.com", "models": ["qwen3.8-flash"], "detail": "3 failed probes in a row, last passed 2026-10-12"}
+{"ts": "2026-10-26T11:19:44.879037Z", "event": "archived", "id": "blue-claw", "name": "Blue Claw Network", "url": "https://blueclaw.network", "models": [], "detail": "3 failed probes in a row, last passed 2026-10-15"}
+{"ts": "2026-10-26T11:19:44.879037Z", "event": "archived", "id": "charm-hyper", "name": "Crush + Charm Hyper", "url": "https://hyper.charm.land", "models": [], "detail": "3 failed probes in a row, last passed 2026-10-15"}

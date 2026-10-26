@@ -1466,12 +1466,6 @@ model_list:
     api_base: https://api.inceptionlabs.ai/v1
     api_key: os.environ/INCEPTION_LABS_API_KEY
     use_chat_completions_api: true
-- model_name: blue-claw/auto
-  litellm_params:
-    model: openai/auto
-    api_base: https://openai.blueclaw.network/v1
-    api_key: os.environ/BLUE_CLAW_API_KEY
-    use_chat_completions_api: true
 - model_name: freeinference/glm-5.3-flash
   litellm_params:
     model: openai/glm-5.3-flash

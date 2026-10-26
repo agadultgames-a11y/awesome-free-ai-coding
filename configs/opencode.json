@@ -1125,19 +1125,6 @@
         }
       }
     },
-    "blue-claw": {
-      "npm": "@ai-sdk/openai-compatible",
-      "name": "Blue Claw Network",
-      "options": {
-        "baseURL": "https://openai.blueclaw.network/v1",
-        "apiKey": "{env:BLUE_CLAW_API_KEY}"
-      },
-      "models": {
-        "auto": {
-          "name": "auto"
-        }
-      }
-    },
     "freeinference": {
       "npm": "@ai-sdk/openai-compatible",
       "name": "FreeInference (Harvard SEAS)",
