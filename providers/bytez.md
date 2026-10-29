@@ -1,51 +1,31 @@
 ---
 layout: default
-title: 'Bytez free tier: limits, free models, verified 2026-10-19'
+title: 'Bytez free tier (archived): what it offered, and why it left the list'
 description: Serverless API over open models, whose Free plan grants $1 of credit every four weeks for open models of up to 7B parameters, one request at a time, with no billing. Credits expire four weeks after grant. The free balance supports open models up to 7B parameters. Closed-model docs conflict between…
 permalink: /providers/bytez/
-last_modified_at: 2026-10-19
+last_modified_at: 2026-10-29
 crumb: Bytez
 ---
 
 {% raw %}
 
-# Bytez free tier
+# Bytez free tier (archived)
 
-🔌 LLM APIs with free tier · no card · **live** — last verified by a probe on 2026-10-19; the 2 probes since have not found that evidence, and 3 misses in a row archive the row · [bytez.com](https://bytez.com) · [back to the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
+🔌 LLM APIs with free tier · no card · **archived** — 3 failed probes in a row, last passed 2026-10-19 · [bytez.com](https://bytez.com) · [back to the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
 
-## What you get
+## What it offered
 
 Serverless API over open models, whose Free plan grants $1 of credit every four weeks for open models of up to 7B parameters, one request at a time, with no billing
 
-## Free models
+## Free models it listed
 
-No model is free by itself here: the free part is an amount the account spends across the catalog, so the column names none. The limits below say what it buys; the ids to call, where the row has them, are under Connect.
+The row named no free model.
 
 ## Limits, in the vendor's words
 
 Open models up to 7B: $1/4 weeks; 1 requests at once per account
 
 Credits expire four weeks after grant. The free balance supports open models up to 7B parameters. Closed-model docs conflict between provider prices plus a platform fee and BYOK billed directly by the provider, so the free dollar does not establish bundled closed-model access. Larger open models require paid credit and a paid plan.
-
-## Where it is offered
-
-The vendor names no country it keeps the offer from ([source](https://docs.bytez.com/model-api/docs/billing.md), read 2026-09-26).
-
-## Connect
-
-- Base URL: `https://api.bytez.com/models/v2/openai/v1`
-- Key: `BYTEZ_API_KEY` — get one at <https://bytez.com/api>
-- Callable ids: `Qwen/Qwen3-4B`
-- Note: model ids are Hugging Face ids, Qwen/Qwen3-4B being the docs' example; the OpenAI SDK examples pass the key as the api key and the docs' curl sends it bare in Authorization. /v1/models answers 401 without a key, and closed-source models need a provider key of your own
-
-Try it from your terminal with your key in `BYTEZ_API_KEY` — it goes from your machine to the vendor and nowhere else:
-
-```sh
-curl -s https://api.bytez.com/models/v2/openai/v1/chat/completions \
-  -H "Authorization: Bearer $BYTEZ_API_KEY" \
-  -H 'Content-Type: application/json' \
-  -d '{"model":"Qwen/Qwen3-4B","messages":[{"role":"user","content":"2+2? MAKE NO MISTAKES."}]}'
-```
 
 ## Evidence
 
@@ -58,10 +38,11 @@ curl -s https://api.bytez.com/models/v2/openai/v1/chat/completions \
 
 Each line is a change to what this page publishes, dated the day it reached the list, in UTC.
 
+- `2026-10-29` — Archived: 3 failed probes in a row, last passed 2026-10-19
 - `2026-09-17` — Added: Serverless API over open models, whose Free plan grants $1 of credit every four weeks for open models of up to 7B parameters, one request at a time, with no billing
 
 ---
 
-Generated from `registry.yaml` on 2026-10-26 and re-verified twice a week; the full list, the Atom feed and the machinery are at <https://github.com/mvalentsev/awesome-free-ai-coding>.
+Generated from `registry.yaml` on 2026-10-29. A probe still reads it twice a week, and the first probe it passes brings it back to the list; the full list, the Atom feed and the machinery are at <https://github.com/mvalentsev/awesome-free-ai-coding>.
 
 {% endraw %}

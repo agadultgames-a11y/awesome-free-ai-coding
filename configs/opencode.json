@@ -1333,15 +1333,6 @@
         }
       }
     },
-    "experiential-labs": {
-      "npm": "@ai-sdk/openai-compatible",
-      "name": "Experiential Labs",
-      "options": {
-        "baseURL": "https://api.experientiallabs.ai/v1",
-        "apiKey": "{env:EXPERIENTIAL_LABS_API_KEY}"
-      },
-      "models": {}
-    },
     "sail-research": {
       "npm": "@ai-sdk/openai-compatible",
       "name": "Sail Research",
@@ -1399,19 +1390,6 @@
         "apiKey": "{env:ARLI_AI_API_KEY}"
       },
       "models": {}
-    },
-    "bytez": {
-      "npm": "@ai-sdk/openai-compatible",
-      "name": "Bytez",
-      "options": {
-        "baseURL": "https://api.bytez.com/models/v2/openai/v1",
-        "apiKey": "{env:BYTEZ_API_KEY}"
-      },
-      "models": {
-        "Qwen/Qwen3-4B": {
-          "name": "Qwen/Qwen3-4B"
-        }
-      }
     },
     "mixlayer": {
       "npm": "@ai-sdk/openai-compatible",

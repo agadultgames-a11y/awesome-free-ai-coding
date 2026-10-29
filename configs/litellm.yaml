@@ -1682,12 +1682,6 @@ model_list:
     api_base: https://text.pollinations.ai/openai
     api_key: none
     use_chat_completions_api: true
-- model_name: bytez/Qwen/Qwen3-4B
-  litellm_params:
-    model: openai/Qwen/Qwen3-4B
-    api_base: https://api.bytez.com/models/v2/openai/v1
-    api_key: os.environ/BYTEZ_API_KEY
-    use_chat_completions_api: true
 - model_name: mixlayer/qwen/qwen3.5-4b-free
   litellm_params:
     model: openai/qwen/qwen3.5-4b-free
