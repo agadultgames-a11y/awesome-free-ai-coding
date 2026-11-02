@@ -1,25 +1,25 @@
 ---
 layout: default
-title: 'Sarvam AI free tier: limits, free models, verified 2026-10-22'
+title: 'Sarvam AI free tier (archived): what it offered, and why it left the list'
 description: India's Sarvam AI credits every new account ₹100 that never expire, spendable on any of its APIs — including its own Sarvam-105B chat model on an OpenAI-shaped endpoint. Signup credit is universal across APIs and never expires; its value is in INR, with no guaranteed token conversion. The Starter…
 permalink: /providers/sarvam/
-last_modified_at: 2026-10-22
+last_modified_at: 2026-11-02
 crumb: Sarvam AI
 ---
 
 {% raw %}
 
-# Sarvam AI free tier
+# Sarvam AI free tier (archived)
 
-🎁 Trials (no card when possible) · no card · **live** — last verified by a probe on 2026-10-22; the 2 probes since have not found that evidence, and 3 misses in a row archive the row · [sarvam.ai](https://www.sarvam.ai) · [back to the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
+🎁 Trials (no card when possible) · no card · **archived** — 3 failed probes in a row, last passed 2026-10-22 · [sarvam.ai](https://www.sarvam.ai) · [back to the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
 
-## What you get
+## What it offered
 
 India's Sarvam AI credits every new account ₹100 that never expire, spendable on any of its APIs — including its own Sarvam-105B chat model on an OpenAI-shaped endpoint
 
-## Free models
+## Free models it listed
 
-No model is free by itself here: the free part is an amount the account spends across the catalog, so the column names none. The limits below say what it buys; the ids to call, where the row has them, are under Connect.
+The row named no free model.
 
 ## Limits, in the vendor's words
 
@@ -28,30 +28,6 @@ No model is free by itself here: the free part is an amount the account spends a
 Starter: 40 requests/minute per account per model; for `sarvam-105b`
 
 Signup credit is universal across APIs and never expires; its value is in INR, with no guaranteed token conversion. The Starter rate below is for Sarvam-105B. DeepSeek, GLM and Gemma beta models use /v2/chat/completions, which standard subscription keys cannot access by default; approval is requested per key. No page read mentions a card.
-
-## Where it is offered
-
-The vendor names no country it keeps the offer from ([source](https://www.sarvam.ai/terms-of-service), read 2026-09-26).
-
-## What happens to what you send
-
-What you send may be used to train or improve models unless you turn that off. In the vendor's words: “We use Your content (including inputs, uploads, prompts, or generated outputs) to train, fine-tune, and/ or improve our AI models unless you explicitly opt-out through your account settings” ([source](https://www.sarvam.ai/privacy-policy)).
-
-## Connect
-
-- Base URL: `https://api.sarvam.ai/v1`
-- Key: `SARVAM_API_KEY` — get one at <https://dashboard.sarvam.ai>
-- Callable ids: `sarvam-105b`
-- Note: the vendor's own header is api-subscription-key, and the same key is accepted as "Authorization: Bearer" on every endpoint. /v1/chat/completions serves only sarvam-105b and its voice-agent variant, sarvam-105b-conversations, which the configs leave out; the open models are on the /v2 beta, whitelisted per key. Prices are in rupees
-
-Try it from your terminal with your key in `SARVAM_API_KEY` — it goes from your machine to the vendor and nowhere else:
-
-```sh
-curl -s https://api.sarvam.ai/v1/chat/completions \
-  -H "Authorization: Bearer $SARVAM_API_KEY" \
-  -H 'Content-Type: application/json' \
-  -d '{"model":"sarvam-105b","messages":[{"role":"user","content":"2+2? MAKE NO MISTAKES."}]}'
-```
 
 ## Evidence
 
@@ -66,12 +42,13 @@ curl -s https://api.sarvam.ai/v1/chat/completions \
 
 Each line is a change to what this page publishes, dated the day it reached the list, in UTC.
 
+- `2026-11-02` — Archived: 3 failed probes in a row, last passed 2026-10-22
 - `2026-09-25` — Free models changed: dropped sarvam-105b
 - `2026-09-16` — Free models changed: dropped deepseek-v4-flash, glm-5.3-flash
 - `2026-09-05` — Added: India's Sarvam AI credits every new account ₹100 to spend on any of its APIs — its own Sarvam-105B chat model beside hosted DeepSeek V4 Flash, GLM 5.3 Flash and Gemma 4 — through an OpenAI-shaped chat endpoint
 
 ---
 
-Generated from `registry.yaml` on 2026-10-29 and re-verified twice a week; the full list, the Atom feed and the machinery are at <https://github.com/mvalentsev/awesome-free-ai-coding>.
+Generated from `registry.yaml` on 2026-11-02. A probe still reads it twice a week, and the first probe it passes brings it back to the list; the full list, the Atom feed and the machinery are at <https://github.com/mvalentsev/awesome-free-ai-coding>.
 
 {% endraw %}

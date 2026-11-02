@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 'ling-3.0-flash-fin free: 2 providers, limits and ids, verified 2026-10-22 or later'
-description: ling-3.0-flash-fin is served free by opencode and Nous Portal (Hermes Agent). None asks for a card. Each one's limits in the vendor's words, the ids to call and the day the published offer was last checked.
+title: 'ling-3.0-flash-fin free: 1 provider, limits and ids, verified 2026-11-02'
+description: ling-3.0-flash-fin is served free by Nous Portal (Hermes Agent). It asks for no card. Each one's limits in the vendor's words, the ids to call and the day the published offer was last checked.
 permalink: /models/ling-3.0-flash-fin/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-02
 crumb: ling-3.0-flash-fin
 ---
 
@@ -11,33 +11,15 @@ crumb: ling-3.0-flash-fin
 
 # Where ling-3.0-flash-fin is free
 
-**2 rows on the list serve `ling-3.0-flash-fin` free:** opencode and Nous Portal (Hermes Agent). None asks for a card. The published offers were checked on 2026-10-22 or later and are rechecked twice a week. It measures **notable**: in the upper half of the [Artificial Analysis Intelligence Index](https://artificialanalysis.ai/models/ling-3-0-flash-fin), below its strong bar.
+**One row on the list serves `ling-3.0-flash-fin` free:** Nous Portal (Hermes Agent). It asks for no card. The published offer was checked on 2026-11-02 and is rechecked twice a week. It measures **notable**: in the upper half of the [Artificial Analysis Intelligence Index](https://artificialanalysis.ai/models/ling-3-0-flash-fin), below its strong bar.
 
 [Every free model](https://mvalentsev.github.io/awesome-free-ai-coding/models/) · [the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
 
 ## Who serves it free
 
-### [opencode](https://mvalentsev.github.io/awesome-free-ai-coding/providers/opencode/)
-
-🤖 Coding agents & CLIs · no card · verified 2026-10-22 · listed since 2026-08-30
-
-Open-source coding agent whose opencode Zen gateway prices a rotating set of models at zero — inside OpenCode only, no sign-in; any provider via BYOK
-
-<details markdown="block">
-<summary>Provider-wide limits</summary>
-
-- Limits, in the vendor's words: Free model usage: Usage allowance: amount not published (period not published); scope not published
-
-Free models work only inside OpenCode; other clients receive `403 FreeTierError: OpenCode's free tier can only be used from within OpenCode`. Use `opencode/<model-id>` and select the Free variant; plain muse-spark-1.3 is paid. Offers rotate and each named free offer is "available on OpenCode for a limited time". Collected free-model data may improve models; NVIDIA offers are trial-only and exclude personal or confidential data. Muse Spark Contributor permits training on prompts and completions; max effort belongs to the paid Standard variant.
-
-</details>
-
-- No API endpoint to paste: this row is a tool you install or sign in to.
-- What you send may be used to train or improve models ([the vendor's words](https://opencode.ai/docs/zen/)).
-
 ### [Nous Portal (Hermes Agent)](https://mvalentsev.github.io/awesome-free-ai-coding/providers/nous-portal/)
 
-🧭 Aggregators (one key, many providers) · no card · verified 2026-10-29 · listed since 2026-09-30
+🧭 Aggregators (one key, many providers) · no card · verified 2026-11-02 · listed since 2026-09-30
 
 Nous Research's inference portal with a $0 Free plan for :free models, accessible through an OpenAI-compatible API and Hermes Agent
 
@@ -57,6 +39,7 @@ Choose the Free plan and use exact :free IDs; they are zero-priced, while metere
 
 ## Rows that listed it before
 
+- [opencode](https://mvalentsev.github.io/awesome-free-ai-coding/providers/opencode/) — listed 2026-08-30 to 2026-11-02; the row itself is archived
 - [LLMTR](https://mvalentsev.github.io/awesome-free-ai-coding/providers/llmtr/) — listed 2026-09-24 to 2026-10-01
 - [Kilo Code](https://mvalentsev.github.io/awesome-free-ai-coding/providers/kilo-code/) — listed 2026-09-24 to 2026-09-29
 - [OpenRouter (free models)](https://mvalentsev.github.io/awesome-free-ai-coding/providers/openrouter-free/) — listed 2026-09-24 to 2026-09-29
@@ -70,6 +53,6 @@ Choose the Free plan and use exact :free IDs; they are zero-priced, while metere
 
 ---
 
-Generated from `registry.yaml` on 2026-10-29 and re-verified twice a week; every free model on the list is at <https://mvalentsev.github.io/awesome-free-ai-coding/models/>, and the full list, the Atom feed and the machinery at <https://github.com/mvalentsev/awesome-free-ai-coding>.
+Generated from `registry.yaml` on 2026-11-02 and re-verified twice a week; every free model on the list is at <https://mvalentsev.github.io/awesome-free-ai-coding/models/>, and the full list, the Atom feed and the machinery at <https://github.com/mvalentsev/awesome-free-ai-coding>.
 
 {% endraw %}

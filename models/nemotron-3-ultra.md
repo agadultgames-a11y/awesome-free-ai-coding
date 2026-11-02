@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 'nemotron-3-ultra free: 7 providers, limits and ids, verified 2026-10-22 or later'
-description: nemotron-3-ultra is served free by opencode, OpenRouter (free models), Kilo Code, Requesty, NVIDIA NIM (build.nvidia.com), AIHubMix (free models) and LLMTR. None asks for a card; Kilo Code answers with no account at all. Each one's limits in the vendor's words, the ids to call and the day the…
+title: 'nemotron-3-ultra free: 6 providers, limits and ids, verified 2026-11-02'
+description: nemotron-3-ultra is served free by OpenRouter (free models), Kilo Code, Requesty, NVIDIA NIM (build.nvidia.com), AIHubMix (free models) and LLMTR. None asks for a card; Kilo Code answers with no account at all. Each one's limits in the vendor's words, the ids to call and the day the published…
 permalink: /models/nemotron-3-ultra/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-02
 crumb: nemotron-3-ultra
 ---
 
@@ -11,33 +11,15 @@ crumb: nemotron-3-ultra
 
 # Where nemotron-3-ultra is free
 
-**7 rows on the list serve `nemotron-3-ultra` free:** opencode, OpenRouter (free models), Kilo Code, Requesty, NVIDIA NIM (build.nvidia.com), AIHubMix (free models) and LLMTR. None asks for a card; Kilo Code answers with no account at all. The published offers were checked on 2026-10-22 or later and are rechecked twice a week. It measures **notable**: in the upper half of the [Artificial Analysis Intelligence Index](https://artificialanalysis.ai/models/nvidia-nemotron-3-ultra-550b-a55b), below its strong bar.
+**6 rows on the list serve `nemotron-3-ultra` free:** OpenRouter (free models), Kilo Code, Requesty, NVIDIA NIM (build.nvidia.com), AIHubMix (free models) and LLMTR. None asks for a card; Kilo Code answers with no account at all. The published offers were checked on 2026-11-02 and are rechecked twice a week. It measures **notable**: in the upper half of the [Artificial Analysis Intelligence Index](https://artificialanalysis.ai/models/nvidia-nemotron-3-ultra-550b-a55b), below its strong bar.
 
 [Every free model](https://mvalentsev.github.io/awesome-free-ai-coding/models/) · [the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
 
 ## Who serves it free
 
-### [opencode](https://mvalentsev.github.io/awesome-free-ai-coding/providers/opencode/)
-
-🤖 Coding agents & CLIs · no card · verified 2026-10-22 · listed since 2026-07-19
-
-Open-source coding agent whose opencode Zen gateway prices a rotating set of models at zero — inside OpenCode only, no sign-in; any provider via BYOK
-
-<details markdown="block">
-<summary>Provider-wide limits</summary>
-
-- Limits, in the vendor's words: Free model usage: Usage allowance: amount not published (period not published); scope not published
-
-Free models work only inside OpenCode; other clients receive `403 FreeTierError: OpenCode's free tier can only be used from within OpenCode`. Use `opencode/<model-id>` and select the Free variant; plain muse-spark-1.3 is paid. Offers rotate and each named free offer is "available on OpenCode for a limited time". Collected free-model data may improve models; NVIDIA offers are trial-only and exclude personal or confidential data. Muse Spark Contributor permits training on prompts and completions; max effort belongs to the paid Standard variant.
-
-</details>
-
-- No API endpoint to paste: this row is a tool you install or sign in to.
-- What you send may be used to train or improve models ([the vendor's words](https://opencode.ai/docs/zen/)).
-
 ### [OpenRouter (free models)](https://mvalentsev.github.io/awesome-free-ai-coding/providers/openrouter-free/)
 
-🧭 Aggregators (one key, many providers) · no card · verified 2026-10-29 · listed since 2026-07-19
+🧭 Aggregators (one key, many providers) · no card · verified 2026-11-02 · listed since 2026-07-19
 
 One API key for a rotating set of :free model variants, open-weight and stealth models among them
 
@@ -61,7 +43,7 @@ OpenRouter's FAQ says its free models "have low rate limits" and "are usually no
 
 ### [Kilo Code](https://mvalentsev.github.io/awesome-free-ai-coding/providers/kilo-code/)
 
-🤖 Coding agents & CLIs · no card · not offered in Iran, Syria, Cuba and 1 more place · verified 2026-10-29 · listed since 2026-08-05
+🤖 Coding agents & CLIs · no card · not offered in Iran, Syria, Cuba and 1 more place · verified 2026-11-02 · listed since 2026-08-05
 
 Open-source VS Code / JetBrains / CLI agent whose $0 plan routes "Auto Free" to the models the Kilo Gateway marks free; the same gateway serves them to any OpenAI client without a key, with BYOK and local models alongside
 
@@ -82,7 +64,7 @@ $0 a month; no account for the free lane.  The lane is whatever the gateway mark
 
 ### [Requesty](https://mvalentsev.github.io/awesome-free-ai-coding/providers/requesty/)
 
-🧭 Aggregators (one key, many providers) · no card · verified 2026-10-29 · listed since 2026-08-11
+🧭 Aggregators (one key, many providers) · no card · verified 2026-11-02 · listed since 2026-08-11
 
 OpenAI-compatible router with free models beside a metered catalog, routing, caching and fallbacks
 
@@ -97,7 +79,7 @@ No credit card for the Free plan, which serves free models only. Routing, cachin
 
 ### [NVIDIA NIM (build.nvidia.com)](https://mvalentsev.github.io/awesome-free-ai-coding/providers/nvidia-nim/)
 
-🔌 LLM APIs with free tier · no card · not offered in Russia, Pakistan, Bangladesh and 11 more places · verified 2026-10-29 · listed since 2026-09-22
+🔌 LLM APIs with free tier · no card · not offered in Russia, Pakistan, Bangladesh and 11 more places · verified 2026-11-02 · listed since 2026-09-22
 
 Free endpoints for the models build.nvidia.com marks "Free Endpoint", open-weight models from several labs among them, called with a free NVIDIA Developer Program key at integrate.api.nvidia.com/v1 (OpenAI-compatible)
 
@@ -117,7 +99,7 @@ No card, but an API key requires an NVIDIA Developer Program account and phone v
 
 ### [AIHubMix (free models)](https://mvalentsev.github.io/awesome-free-ai-coding/providers/aihubmix/)
 
-🧭 Aggregators (one key, many providers) · no card · verified 2026-10-29 · listed since 2026-09-24
+🧭 Aggregators (one key, many providers) · no card · verified 2026-11-02 · listed since 2026-09-24
 
 One OpenAI-compatible gateway over 800+ models, dozens of which the platform prices at 0 and subsidises itself, with an Anthropic-format /v1/messages too, so a free id can back Claude Code
 
@@ -142,7 +124,7 @@ Free IDs end in -free; paid twins are metered at list prices. The daily request 
 
 ### [LLMTR](https://mvalentsev.github.io/awesome-free-ai-coding/providers/llmtr/)
 
-🧭 Aggregators (one key, many providers) · no card · verified 2026-10-29 · listed since 2026-09-02
+🧭 Aggregators (one key, many providers) · no card · verified 2026-11-02 · listed since 2026-09-02
 
 Turkish OpenAI-compatible gateway with free models on a zero balance and dated previews; some previews require a previous top-up
 
@@ -162,17 +144,18 @@ Free chat rows can be called on a new account with zero balance before any top-u
 
 ## Rows that listed it before
 
+- [opencode](https://mvalentsev.github.io/awesome-free-ai-coding/providers/opencode/) — listed 2026-07-19 to 2026-11-02; the row itself is archived
 - [Kenari](https://mvalentsev.github.io/awesome-free-ai-coding/providers/kenari/) — listed 2026-09-02 to 2026-09-16; the row itself is archived
 
 ## Related models
 
 - [`nemotron-3-nano-omni`](https://mvalentsev.github.io/awesome-free-ai-coding/models/nemotron-3-nano-omni/) — free at OpenRouter (free models), Kilo Code, Requesty, NVIDIA NIM (build.nvidia.com), AIHubMix (free models) and TokenRouter (PaleBlueDot)
 - [`nemotron-3-super`](https://mvalentsev.github.io/awesome-free-ai-coding/models/nemotron-3-super/) — free at OpenRouter (free models), Kilo Code, Requesty, NVIDIA NIM (build.nvidia.com), AIHubMix (free models) and LLMTR
-- [`nemotron-3.5-lightning`](https://mvalentsev.github.io/awesome-free-ai-coding/models/nemotron-3.5-lightning/) — free at opencode, OpenRouter (free models), Kilo Code, Requesty, NVIDIA NIM (build.nvidia.com) and AIHubMix (free models)
+- [`nemotron-3.5-lightning`](https://mvalentsev.github.io/awesome-free-ai-coding/models/nemotron-3.5-lightning/) — free at OpenRouter (free models), Kilo Code, Requesty, NVIDIA NIM (build.nvidia.com) and AIHubMix (free models)
 - [`nemotron-3-nano-30b`](https://mvalentsev.github.io/awesome-free-ai-coding/models/nemotron-3-nano-30b/) — free at Requesty and AIHubMix (free models)
 
 ---
 
-Generated from `registry.yaml` on 2026-10-29 and re-verified twice a week; every free model on the list is at <https://mvalentsev.github.io/awesome-free-ai-coding/models/>, and the full list, the Atom feed and the machinery at <https://github.com/mvalentsev/awesome-free-ai-coding>.
+Generated from `registry.yaml` on 2026-11-02 and re-verified twice a week; every free model on the list is at <https://mvalentsev.github.io/awesome-free-ai-coding/models/>, and the full list, the Atom feed and the machinery at <https://github.com/mvalentsev/awesome-free-ai-coding>.
 
 {% endraw %}

@@ -1093,19 +1093,6 @@
         }
       }
     },
-    "sarvam": {
-      "npm": "@ai-sdk/openai-compatible",
-      "name": "Sarvam AI",
-      "options": {
-        "baseURL": "https://api.sarvam.ai/v1",
-        "apiKey": "{env:SARVAM_API_KEY}"
-      },
-      "models": {
-        "sarvam-105b": {
-          "name": "sarvam-105b"
-        }
-      }
-    },
     "inception-labs": {
       "npm": "@ai-sdk/openai-compatible",
       "name": "Inception Labs (Mercury)",

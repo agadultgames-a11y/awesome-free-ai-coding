@@ -1442,12 +1442,6 @@ model_list:
     api_base: https://api.moark.com/v1
     api_key: os.environ/MOARK_API_KEY
     use_chat_completions_api: true
-- model_name: sarvam/sarvam-105b
-  litellm_params:
-    model: openai/sarvam-105b
-    api_base: https://api.sarvam.ai/v1
-    api_key: os.environ/SARVAM_API_KEY
-    use_chat_completions_api: true
 - model_name: inception-labs/mercury-2.5
   litellm_params:
     model: openai/mercury-2.5
