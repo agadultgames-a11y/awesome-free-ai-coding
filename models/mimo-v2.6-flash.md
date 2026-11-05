@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 'mimo-v2.6-flash free: 3 providers, limits and ids, verified 2026-11-02'
+title: 'mimo-v2.6-flash free: 3 providers, limits and ids, verified 2026-11-05'
 description: mimo-v2.6-flash is served free by Freebuff, AIHubMix (free models) and Token Harbor. None asks for a card. Each one's limits in the vendor's words, the ids to call and the day the published offer was last checked.
 permalink: /models/mimo-v2.6-flash/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-05
 crumb: mimo-v2.6-flash
 ---
 
@@ -11,7 +11,7 @@ crumb: mimo-v2.6-flash
 
 # Where mimo-v2.6-flash is free
 
-**3 rows on the list serve `mimo-v2.6-flash` free:** Freebuff, AIHubMix (free models) and Token Harbor. None asks for a card. The published offers were checked on 2026-11-02 and are rechecked twice a week. It measures **strong**: within 25 points of the top of the [Artificial Analysis Intelligence Index](https://artificialanalysis.ai/models/mimo-v2-6-flash).
+**3 rows on the list serve `mimo-v2.6-flash` free:** Freebuff, AIHubMix (free models) and Token Harbor. None asks for a card. The published offers were checked on 2026-11-05 and are rechecked twice a week. It measures **strong**: within 25 points of the top of the [Artificial Analysis Intelligence Index](https://artificialanalysis.ai/models/mimo-v2-6-flash).
 
 [Every free model](https://mvalentsev.github.io/awesome-free-ai-coding/models/) · [the whole list](https://mvalentsev.github.io/awesome-free-ai-coding/)
 
@@ -19,7 +19,7 @@ crumb: mimo-v2.6-flash
 
 ### [Freebuff](https://mvalentsev.github.io/awesome-free-ai-coding/providers/freebuff/)
 
-🤖 Coding agents & CLIs · no card · verified 2026-11-02 · listed since 2026-10-06
+🤖 Coding agents & CLIs · no card · verified 2026-11-05 · listed since 2026-10-06
 
 Ad-funded coding agent — CLI, desktop, web, cloud and chat — with daily regional credits and conditional free-session access. “No card required.”
 
@@ -45,7 +45,7 @@ MiMo 2.6 Flash is the default on CLI, Desktop, Web, and Cloud. Daily Freebucks r
 
 ### [AIHubMix (free models)](https://mvalentsev.github.io/awesome-free-ai-coding/providers/aihubmix/)
 
-🧭 Aggregators (one key, many providers) · no card · verified 2026-11-02 · listed since 2026-10-06
+🧭 Aggregators (one key, many providers) · no card · verified 2026-11-05 · listed since 2026-10-06
 
 One OpenAI-compatible gateway over 800+ models, dozens of which the platform prices at 0 and subsidises itself, with an Anthropic-format /v1/messages too, so a free id can back Claude Code
 
@@ -70,7 +70,7 @@ Free IDs end in -free; paid twins are metered at list prices. The daily request 
 
 ### [Token Harbor](https://mvalentsev.github.io/awesome-free-ai-coding/providers/token-harbor/)
 
-🧭 Aggregators (one key, many providers) · no card · verified 2026-11-02 · listed since 2026-10-06
+🧭 Aggregators (one key, many providers) · no card · verified 2026-11-05 · listed since 2026-10-06
 
 OpenAI- and Anthropic-compatible gateway with a standing $0 plan: a rotating lineup of :free ids on a value-based allowance per rolling 7-day period, no card
 
@@ -108,6 +108,6 @@ OpenAI- and Anthropic-compatible gateway with a standing $0 plan: a rotating lin
 
 ---
 
-Generated from `registry.yaml` on 2026-11-02 and re-verified twice a week; every free model on the list is at <https://mvalentsev.github.io/awesome-free-ai-coding/models/>, and the full list, the Atom feed and the machinery at <https://github.com/mvalentsev/awesome-free-ai-coding>.
+Generated from `registry.yaml` on 2026-11-05 and re-verified twice a week; every free model on the list is at <https://mvalentsev.github.io/awesome-free-ai-coding/models/>, and the full list, the Atom feed and the machinery at <https://github.com/mvalentsev/awesome-free-ai-coding>.
 
 {% endraw %}

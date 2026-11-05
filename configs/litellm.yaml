@@ -704,12 +704,6 @@ model_list:
     api_base: https://llmtr.com/v1
     api_key: os.environ/LLMTR_API_KEY
     use_chat_completions_api: true
-- model_name: llmtech/nvidia/Qwen3.8-27B-NVFP4
-  litellm_params:
-    model: openai/nvidia/Qwen3.8-27B-NVFP4
-    api_base: https://api.llmtech.eu/v1
-    api_key: lt-trial-ba1ef28c6d32ed6980678d8d
-    use_chat_completions_api: true
 - model_name: vercel-ai-gateway/poolside/laguna-s-2.1-free
   litellm_params:
     model: openai/poolside/laguna-s-2.1-free
@@ -1532,24 +1526,6 @@ model_list:
     api_base: https://api.fireworks.ai/inference/v1
     api_key: os.environ/FIREWORKS_AI_API_KEY
     use_chat_completions_api: true
-- model_name: ollama-cloud/gpt-oss:120b
-  litellm_params:
-    model: openai/gpt-oss:120b
-    api_base: https://ollama.com/v1
-    api_key: os.environ/OLLAMA_CLOUD_API_KEY
-    use_chat_completions_api: true
-- model_name: ollama-cloud/gemma4:31b
-  litellm_params:
-    model: openai/gemma4:31b
-    api_base: https://ollama.com/v1
-    api_key: os.environ/OLLAMA_CLOUD_API_KEY
-    use_chat_completions_api: true
-- model_name: ollama-cloud/nemotron-3-ultra
-  litellm_params:
-    model: openai/nemotron-3-ultra
-    api_base: https://ollama.com/v1
-    api_key: os.environ/OLLAMA_CLOUD_API_KEY
-    use_chat_completions_api: true
 - model_name: routerplex/deepseek-v4-flash
   litellm_params:
     model: openai/deepseek-v4-flash
@@ -1747,12 +1723,6 @@ model_list:
     model: openai/ZhipuAI/GLM-4.7-Flash
     api_base: https://api-inference.modelscope.cn/v1
     api_key: os.environ/MODELSCOPE_API_KEY
-    use_chat_completions_api: true
-- model_name: sensenova/sensenova-6.8-flash-lite
-  litellm_params:
-    model: openai/sensenova-6.8-flash-lite
-    api_base: https://token.sensenova.cn/v1
-    api_key: os.environ/SENSENOVA_API_KEY
     use_chat_completions_api: true
 - model_name: tencent-tokenhub/kimi-k3
   litellm_params:
@@ -1999,17 +1969,6 @@ model_list:
       RateLimitErrorAllowedFails: 0
 - model_name: free/strong
   litellm_params:
-    model: openai/nvidia/Qwen3.8-27B-NVFP4
-    api_base: https://api.llmtech.eu/v1
-    api_key: lt-trial-ba1ef28c6d32ed6980678d8d
-    use_chat_completions_api: true
-  model_info:
-    allowed_fails_policy:
-      AuthenticationErrorAllowedFails: 0
-      InternalServerErrorAllowedFails: 0
-      RateLimitErrorAllowedFails: 0
-- model_name: free/strong
-  litellm_params:
     model: openai/Qwen3.8-27B
     api_base: https://inference.hetzner.com/api/v1
     api_key: os.environ/HETZNER_INFERENCE_API_KEY
@@ -2189,17 +2148,6 @@ model_list:
     model: openai/deepseek-v4-flash
     api_base: https://freeinference.org/v1
     api_key: os.environ/FREEINFERENCE_API_KEY
-    use_chat_completions_api: true
-  model_info:
-    allowed_fails_policy:
-      AuthenticationErrorAllowedFails: 0
-      InternalServerErrorAllowedFails: 0
-      RateLimitErrorAllowedFails: 0
-- model_name: free/nokey
-  litellm_params:
-    model: openai/nvidia/Qwen3.8-27B-NVFP4
-    api_base: https://api.llmtech.eu/v1
-    api_key: lt-trial-ba1ef28c6d32ed6980678d8d
     use_chat_completions_api: true
   model_info:
     allowed_fails_policy:
